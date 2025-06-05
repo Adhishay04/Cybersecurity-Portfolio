@@ -33,4 +33,4 @@ Botium Toys is a small U.S.-based toy manufacturer and retailer. As its online p
 
 ## 📄 Project Files
 
-- [`Security-Audit-Report.pdf`](./Controls and compliance checklist exemplar.pdf) — Final audit report with risk and compliance checklist
+- [`Controls and compliance checklist exemplar.pdf`](./Controls and compliance checklist exemplar.pdf) — Final audit report with risk and compliance checklist
