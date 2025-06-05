@@ -12,25 +12,25 @@ Botium Toys is a small U.S.-based toy manufacturer and retailer. As its online p
 
 ## 🔍 Tasks Performed
 
-- Defined audit goals and scope
-- Identified IT assets and evaluated risks
-- Conducted a risk assessment
-- Evaluated controls using NIST CSF
-- Completed a compliance checklist
-- Documented recommendations and risk mitigation actions
+- Defined audit goals and scope  
+- Identified IT assets and evaluated risks  
+- Conducted a risk assessment  
+- Evaluated controls using NIST CSF  
+- Completed a compliance checklist  
+- Documented recommendations and risk mitigation actions  
 
 ---
 
 ## 🛠️ Skills Demonstrated
 
-- Cybersecurity auditing
-- Risk assessment
-- Compliance analysis (e.g., PCI DSS, GDPR)
-- NIST CSF framework implementation
-- Documentation and reporting
+- Cybersecurity auditing  
+- Risk assessment  
+- Compliance analysis (e.g., PCI DSS, GDPR)  
+- NIST CSF framework implementation  
+- Documentation and reporting  
 
 ---
 
 ## 📄 Project Files
 
-- [`Controls and compliance checklist exemplar.pdf`](./Controls and compliance checklist exemplar.pdf) — Final audit report with risk and compliance checklist
+- [`Controls and compliance checklist exemplar.pdf`](./Controls%20and%20compliance%20checklist%20exemplar.pdf) — Final audit report with risk and compliance checklist
