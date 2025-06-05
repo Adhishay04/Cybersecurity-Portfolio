@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-Hands-on cybersecurity projects showcasing technical and analytical skills gained through the **Google Cybersecurity Professional Certificate** (9-course specialization on Coursera).
+Hands-on cybersecurity projects showcasing technical and analytical skills gained through the **Google Cybersecurity Professional Certificate** (8-course specialization on Coursera).
 
 ----
 
